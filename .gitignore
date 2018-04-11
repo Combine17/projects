@@ -5,7 +5,5 @@
 !.gitignore
 
 /*/*/main/**/*.pyc
-/*/*/main/**/*.komodoproject
-/*/*/main/**/.komodotools
 /*/*/main/**/.idea
 
