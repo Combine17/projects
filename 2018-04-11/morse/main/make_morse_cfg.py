@@ -11,5 +11,4 @@ for line in text:
     letters = line.strip()
     letters = letters.replace('<td class="original">','')
     letters = letters.replace('</td>', '')
-    print(letters)
-
+    print(letters[:4])
